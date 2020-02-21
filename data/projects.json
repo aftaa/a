@@ -1,0 +1,40 @@
+{
+  "name": "projects",
+  "links": [
+    {
+      "name": "vseti",
+      "href": "https://docs.google.com/spreadsheets/d/1R_WhD-No9K4Z8b4PN71RJ8KJoauNiSFwAN0Ts52D8oo/edit?ouid=106653452409643666048&usp=sheets_home&ths=true",
+      "private": true,
+      "icon": "https://ssl.gstatic.com/docs/spreadsheets/favicon3.ico"
+    },    {
+      "name": "plugins",
+      "href": "https://docs.google.com/spreadsheets/d/1KZE3I_8xJdbvGHuRih6viqox1cvL01WqfQsAhVu0PTM/edit#gid=940524370",
+      "private": true,
+      "icon": "https://ssl.gstatic.com/docs/spreadsheets/favicon3.ico"
+    },
+    {
+      "name": "yarko",
+      "href": "https://docs.google.com/spreadsheets/d/1dMaUzD5nFeRzAE90oRYlM2l1tiCZ72XskmLdnGFDbI8/edit?ouid=106653452409643666048&usp=sheets_home&ths=true",
+      "private": true,
+      "icon": "https://ssl.gstatic.com/docs/spreadsheets/favicon3.ico"
+    },
+    {
+      "name": "mirponitke",
+      "href": "https://docs.google.com/spreadsheets/d/1AMNm4DbSsXfUQBAIYpjVh0DfMqBb1cF0zwllqmepQB0/edit#gid=2021923826",
+      "private": true,
+      "icon": "https://ssl.gstatic.com/docs/spreadsheets/favicon3.ico"
+    },
+    {
+      "name": "kontinent",
+      "href": "https://docs.google.com/spreadsheets/d/131ELJPKkWjH11mkY6VjyirIbP3yEh6w0nFeAiT1M9Ak/edit#gid=0",
+      "private": true,
+      "icon": "https://ssl.gstatic.com/docs/spreadsheets/favicon3.ico"
+    },
+    {
+      "name": "priem",
+      "href": "https://docs.google.com/spreadsheets/d/1Bquwd6w8PqMaX1ShJT0c94pbw0pwmHNd0aRMyRpP09U/edit#gid=0",
+      "private": true,
+      "icon": "https://ssl.gstatic.com/docs/spreadsheets/favicon3.ico"
+    }
+  ]
+}

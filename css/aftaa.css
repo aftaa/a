@@ -1,0 +1,43 @@
+footer {
+    background: #212529;
+    color: #aaa;
+    font-size: 14px;
+}
+
+#c {
+    margin: 0 auto;
+}
+
+footer a,
+footer a:hover {
+    color: orange;
+}
+
+/* banks cards */
+#card_banks {
+    font-size: 12px;
+    margin-top: .5em;
+}
+
+#card_bank_1 {
+    background: #299d37;
+    border-radius: 1em;
+    color: #fff;
+}
+
+#card_bank_2 {
+    background: #ffed00;
+    border-radius: 1em;
+}
+
+#card_bank_3 {
+    background: #ff4b5f;
+    border-radius: 1em;
+}
+
+#kuba-moscow {
+    padding: 3px;
+    color: #333;
+    background: yellow;
+    border-radius: 5px;
+}

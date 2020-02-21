@@ -1,0 +1,29 @@
+{
+  "name": "where I live",
+  "links": [
+    {
+      "name": "swarm",
+      "href": "https://www.swarmapp.com/history",
+      "private": false,
+      "icon": "https://ss3.4sqi.net/img/swarm/icons/favicon.ico"
+    },
+    {
+      "name": "instagram",
+      "href": "https://www.instagram.com/aftaa/",
+      "private": false,
+      "icon": "auto"
+    },
+    {
+      "name": "kinopoisk",
+      "href": "https://mykp.ru/after",
+      "private": false,
+      "icon": "https://www.kinopoisk.ru/favicon.ico"
+    },
+    {
+      "name": "twitter",
+      "href": "https://twitter.com/aftaa",
+      "private": false,
+      "icon": "auto"
+    }
+  ]
+}

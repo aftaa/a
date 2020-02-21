@@ -1,0 +1,604 @@
+[26-Jan-2019 21:49:05 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/a44733/public_html/aftaa.ru/index.php on line 2
+[26-Jan-2019 21:49:05 UTC] PHP Warning:  file_get_contents(https://www.instagram.com/aftaa/): failed to open stream: no suitable wrapper could be found in /home/a44733/public_html/aftaa.ru/index.php on line 2
+[26-Jan-2019 21:49:19 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/a44733/public_html/aftaa.ru/index.php on line 2
+[26-Jan-2019 21:49:19 UTC] PHP Warning:  file_get_contents(https://www.instagram.com/aftaa/): failed to open stream: no suitable wrapper could be found in /home/a44733/public_html/aftaa.ru/index.php on line 2
+[26-Jan-2019 21:51:00 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/a44733/public_html/aftaa.ru/index.php on line 2
+[26-Jan-2019 21:51:00 UTC] PHP Warning:  file_get_contents(https://www.instagram.com/aftaa/): failed to open stream: no suitable wrapper could be found in /home/a44733/public_html/aftaa.ru/index.php on line 2
+[26-Jan-2019 21:51:04 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/a44733/public_html/aftaa.ru/index.php on line 2
+[26-Jan-2019 21:51:04 UTC] PHP Warning:  file_get_contents(https://www.instagram.com/aftaa/): failed to open stream: no suitable wrapper could be found in /home/a44733/public_html/aftaa.ru/index.php on line 2
+[26-Jan-2019 21:51:07 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/a44733/public_html/aftaa.ru/index.php on line 2
+[26-Jan-2019 21:51:07 UTC] PHP Warning:  file_get_contents(https://www.instagram.com/aftaa/): failed to open stream: no suitable wrapper could be found in /home/a44733/public_html/aftaa.ru/index.php on line 2
+[26-Jan-2019 22:02:44 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/a44733/public_html/aftaa.ru/index.php on line 2
+[26-Jan-2019 22:02:44 UTC] PHP Warning:  file_get_contents(https://www.instagram.com/aftaa/): failed to open stream: no suitable wrapper could be found in /home/a44733/public_html/aftaa.ru/index.php on line 2
+[27-Jan-2019 00:34:20 UTC] PHP Parse error:  syntax error, unexpected '<', expecting ';' in /home/a44733/public_html/aftaa.ru/index.php on line 38
+[27-Jan-2019 01:32:03 UTC] PHP Parse error:  syntax error, unexpected '++' (T_INC), expecting variable (T_VARIABLE) or '{' or '$' in /home/a44733/public_html/aftaa.ru/index.php on line 39
+[28-Jan-2019 02:32:05 UTC] PHP Parse error:  syntax error, unexpected ':', expecting ']' in /home/a44733/public_html/aftaa.ru/index.php on line 26
+[28-Jan-2019 02:32:06 UTC] PHP Parse error:  syntax error, unexpected ':', expecting ']' in /home/a44733/public_html/aftaa.ru/index.php on line 26
+[28-Jan-2019 02:32:28 UTC] PHP Parse error:  syntax error, unexpected 'ksort' (T_STRING) in /home/a44733/public_html/aftaa.ru/index.php on line 32
+[28-Jan-2019 02:32:29 UTC] PHP Parse error:  syntax error, unexpected 'ksort' (T_STRING) in /home/a44733/public_html/aftaa.ru/index.php on line 32
+[28-Jan-2019 02:32:29 UTC] PHP Parse error:  syntax error, unexpected 'ksort' (T_STRING) in /home/a44733/public_html/aftaa.ru/index.php on line 32
+[28-Jan-2019 02:58:13 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/a44733/public_html/aftaa.ru/_block.php on line 6
+[28-Jan-2019 02:58:13 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/a44733/public_html/aftaa.ru/_block.php on line 6
+[28-Jan-2019 02:58:13 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/a44733/public_html/aftaa.ru/_block.php on line 6
+[28-Jan-2019 02:58:13 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/a44733/public_html/aftaa.ru/_block.php on line 6
+[30-Jan-2019 00:24:39 UTC] PHP Warning:  ksort() expects parameter 1 to be array, null given in /home/a44733/public_html/aftaa.ru/_data.php on line 55
+[30-Jan-2019 00:25:04 UTC] PHP Warning:  ksort() expects parameter 1 to be array, null given in /home/a44733/public_html/aftaa.ru/_data.php on line 55
+[30-Jan-2019 00:25:34 UTC] PHP Warning:  ksort() expects parameter 1 to be array, null given in /home/a44733/public_html/aftaa.ru/_data.php on line 55
+[30-Jan-2019 00:25:36 UTC] PHP Warning:  ksort() expects parameter 1 to be array, null given in /home/a44733/public_html/aftaa.ru/_data.php on line 55
+[30-Jan-2019 00:25:37 UTC] PHP Warning:  ksort() expects parameter 1 to be array, null given in /home/a44733/public_html/aftaa.ru/_data.php on line 55
+[30-Jan-2019 00:25:37 UTC] PHP Warning:  ksort() expects parameter 1 to be array, null given in /home/a44733/public_html/aftaa.ru/_data.php on line 55
+[30-Jan-2019 00:25:37 UTC] PHP Warning:  ksort() expects parameter 1 to be array, null given in /home/a44733/public_html/aftaa.ru/_data.php on line 55
+[30-Jan-2019 00:25:37 UTC] PHP Warning:  ksort() expects parameter 1 to be array, null given in /home/a44733/public_html/aftaa.ru/_data.php on line 55
+[30-Jan-2019 00:26:05 UTC] PHP Warning:  ksort() expects parameter 1 to be array, null given in /home/a44733/public_html/aftaa.ru/_data.php on line 55
+[30-Jan-2019 00:26:06 UTC] PHP Warning:  ksort() expects parameter 1 to be array, null given in /home/a44733/public_html/aftaa.ru/_data.php on line 55
+[30-Jan-2019 00:26:25 UTC] PHP Warning:  ksort() expects parameter 1 to be array, null given in /home/a44733/public_html/aftaa.ru/_data.php on line 55
+[30-Jan-2019 00:26:26 UTC] PHP Warning:  ksort() expects parameter 1 to be array, null given in /home/a44733/public_html/aftaa.ru/_data.php on line 55
+[30-Jan-2019 00:26:36 UTC] PHP Warning:  ksort() expects parameter 1 to be array, null given in /home/a44733/public_html/aftaa.ru/_data.php on line 55
+[30-Jan-2019 00:26:39 UTC] PHP Warning:  ksort() expects parameter 1 to be array, null given in /home/a44733/public_html/aftaa.ru/_data.php on line 55
+[30-Jan-2019 00:27:02 UTC] PHP Warning:  ksort() expects parameter 1 to be array, null given in /home/a44733/public_html/aftaa.ru/_data.php on line 55
+[30-Jan-2019 00:27:04 UTC] PHP Warning:  ksort() expects parameter 1 to be array, null given in /home/a44733/public_html/aftaa.ru/_data.php on line 55
+[30-Jan-2019 00:27:05 UTC] PHP Warning:  ksort() expects parameter 1 to be array, null given in /home/a44733/public_html/aftaa.ru/_data.php on line 55
+[30-Jan-2019 00:27:26 UTC] PHP Warning:  ksort() expects parameter 1 to be array, null given in /home/a44733/public_html/aftaa.ru/_data.php on line 55
+[30-Jan-2019 00:27:56 UTC] PHP Warning:  ksort() expects parameter 1 to be array, null given in /home/a44733/public_html/aftaa.ru/_data.php on line 55
+[30-Jan-2019 00:28:07 UTC] PHP Warning:  ksort() expects parameter 1 to be array, null given in /home/a44733/public_html/aftaa.ru/_data.php on line 55
+[30-Jan-2019 00:28:08 UTC] PHP Warning:  ksort() expects parameter 1 to be array, null given in /home/a44733/public_html/aftaa.ru/_data.php on line 55
+[30-Jan-2019 00:28:09 UTC] PHP Warning:  ksort() expects parameter 1 to be array, null given in /home/a44733/public_html/aftaa.ru/_data.php on line 55
+[30-Jan-2019 00:28:09 UTC] PHP Warning:  ksort() expects parameter 1 to be array, null given in /home/a44733/public_html/aftaa.ru/_data.php on line 55
+[30-Jan-2019 00:28:25 UTC] PHP Warning:  ksort() expects parameter 1 to be array, null given in /home/a44733/public_html/aftaa.ru/_data.php on line 55
+[30-Jan-2019 00:28:32 UTC] PHP Warning:  ksort() expects parameter 1 to be array, null given in /home/a44733/public_html/aftaa.ru/_data.php on line 55
+[30-Jan-2019 00:28:34 UTC] PHP Warning:  ksort() expects parameter 1 to be array, null given in /home/a44733/public_html/aftaa.ru/_data.php on line 55
+[30-Jan-2019 00:29:10 UTC] PHP Warning:  ksort() expects parameter 1 to be array, null given in /home/a44733/public_html/aftaa.ru/_data.php on line 55
+[30-Jan-2019 00:29:40 UTC] PHP Warning:  ksort() expects parameter 1 to be array, null given in /home/a44733/public_html/aftaa.ru/_data.php on line 55
+[30-Jan-2019 00:30:06 UTC] PHP Warning:  ksort() expects parameter 1 to be array, null given in /home/a44733/public_html/aftaa.ru/_data.php on line 55
+[30-Jan-2019 00:30:07 UTC] PHP Warning:  ksort() expects parameter 1 to be array, null given in /home/a44733/public_html/aftaa.ru/_data.php on line 55
+[30-Jan-2019 00:30:09 UTC] PHP Warning:  ksort() expects parameter 1 to be array, null given in /home/a44733/public_html/aftaa.ru/_data.php on line 55
+[30-Jan-2019 00:30:38 UTC] PHP Warning:  ksort() expects parameter 1 to be array, null given in /home/a44733/public_html/aftaa.ru/_data.php on line 55
+[30-Jan-2019 00:30:40 UTC] PHP Warning:  ksort() expects parameter 1 to be array, null given in /home/a44733/public_html/aftaa.ru/_data.php on line 55
+[30-Jan-2019 00:30:43 UTC] PHP Warning:  ksort() expects parameter 1 to be array, null given in /home/a44733/public_html/aftaa.ru/_data.php on line 55
+[30-Jan-2019 00:31:27 UTC] PHP Warning:  ksort() expects parameter 1 to be array, null given in /home/a44733/public_html/aftaa.ru/_data.php on line 55
+[31-Jan-2019 22:01:50 UTC] PHP Warning:  require_once(_include.php): failed to open stream: No such file or directory in /home/a44733/public_html/aftaa.ru/index.php on line 4
+[31-Jan-2019 22:01:50 UTC] PHP Fatal error:  require_once(): Failed opening required '_include.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/a44733/public_html/aftaa.ru/index.php on line 4
+[31-Jan-2019 22:01:52 UTC] PHP Warning:  require_once(_include.php): failed to open stream: No such file or directory in /home/a44733/public_html/aftaa.ru/index.php on line 4
+[31-Jan-2019 22:01:52 UTC] PHP Fatal error:  require_once(): Failed opening required '_include.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/a44733/public_html/aftaa.ru/index.php on line 4
+[31-Jan-2019 22:02:46 UTC] PHP Warning:  link() expects exactly 2 parameters, 0 given in /home/a44733/public_html/aftaa.ru/index.php on line 64
+[31-Jan-2019 22:02:46 UTC] PHP Fatal error:  Uncaught TypeError: Argument 2 passed to _include() must be of the type array, null given, called in /home/a44733/public_html/aftaa.ru/index.php on line 64 and defined in /home/a44733/public_html/aftaa.ru/_include.php:6
+Stack trace:
+#0 /home/a44733/public_html/aftaa.ru/index.php(64): _include('social', NULL)
+#1 {main}
+  thrown in /home/a44733/public_html/aftaa.ru/_include.php on line 6
+[31-Jan-2019 22:04:51 UTC] PHP Fatal error:  Uncaught TypeError: Argument 2 passed to _include() must be of the type array, null given, called in /home/a44733/public_html/aftaa.ru/index.php on line 55 and defined in /home/a44733/public_html/aftaa.ru/_include.php:6
+Stack trace:
+#0 /home/a44733/public_html/aftaa.ru/index.php(55): _include('job1', NULL)
+#1 {main}
+  thrown in /home/a44733/public_html/aftaa.ru/_include.php on line 6
+[31-Jan-2019 22:05:07 UTC] PHP Warning:  link() expects exactly 2 parameters, 0 given in /home/a44733/public_html/aftaa.ru/index.php on line 64
+[31-Jan-2019 22:05:07 UTC] PHP Fatal error:  Uncaught TypeError: Argument 2 passed to _include() must be of the type array, null given, called in /home/a44733/public_html/aftaa.ru/index.php on line 64 and defined in /home/a44733/public_html/aftaa.ru/_include.php:6
+Stack trace:
+#0 /home/a44733/public_html/aftaa.ru/index.php(64): _include('social', NULL)
+#1 {main}
+  thrown in /home/a44733/public_html/aftaa.ru/_include.php on line 6
+[31-Jan-2019 22:05:31 UTC] PHP Warning:  link() expects exactly 2 parameters, 0 given in /home/a44733/public_html/aftaa.ru/index.php on line 64
+[31-Jan-2019 22:05:31 UTC] PHP Fatal error:  Uncaught TypeError: Argument 2 passed to _include() must be of the type array, null given, called in /home/a44733/public_html/aftaa.ru/index.php on line 64 and defined in /home/a44733/public_html/aftaa.ru/_include.php:6
+Stack trace:
+#0 /home/a44733/public_html/aftaa.ru/index.php(64): _include('social', NULL)
+#1 {main}
+  thrown in /home/a44733/public_html/aftaa.ru/_include.php on line 6
+[31-Jan-2019 22:05:34 UTC] PHP Fatal error:  Uncaught TypeError: Argument 2 passed to _include() must be of the type array, null given, called in /home/a44733/public_html/aftaa.ru/index.php on line 64 and defined in /home/a44733/public_html/aftaa.ru/_include.php:6
+Stack trace:
+#0 /home/a44733/public_html/aftaa.ru/index.php(64): _include('social', NULL)
+#1 {main}
+  thrown in /home/a44733/public_html/aftaa.ru/_include.php on line 6
+[31-Jan-2019 22:06:41 UTC] PHP Fatal error:  Uncaught TypeError: Argument 2 passed to _include() must be of the type array, null given, called in /home/a44733/public_html/aftaa.ru/index.php on line 64 and defined in /home/a44733/public_html/aftaa.ru/_include.php:6
+Stack trace:
+#0 /home/a44733/public_html/aftaa.ru/index.php(64): _include('social', NULL)
+#1 {main}
+  thrown in /home/a44733/public_html/aftaa.ru/_include.php on line 6
+[31-Jan-2019 22:07:30 UTC] PHP Fatal error:  Uncaught TypeError: Argument 2 passed to _include() must be of the type array, null given, called in /home/a44733/public_html/aftaa.ru/index.php on line 55 and defined in /home/a44733/public_html/aftaa.ru/_include.php:6
+Stack trace:
+#0 /home/a44733/public_html/aftaa.ru/index.php(55): _include('job1', NULL)
+#1 {main}
+  thrown in /home/a44733/public_html/aftaa.ru/_include.php on line 6
+[31-Jan-2019 22:07:31 UTC] PHP Fatal error:  Uncaught TypeError: Argument 2 passed to _include() must be of the type array, null given, called in /home/a44733/public_html/aftaa.ru/index.php on line 55 and defined in /home/a44733/public_html/aftaa.ru/_include.php:6
+Stack trace:
+#0 /home/a44733/public_html/aftaa.ru/index.php(55): _include('job1', NULL)
+#1 {main}
+  thrown in /home/a44733/public_html/aftaa.ru/_include.php on line 6
+[31-Jan-2019 22:07:42 UTC] PHP Warning:  link() expects exactly 2 parameters, 0 given in /home/a44733/public_html/aftaa.ru/index.php on line 60
+[31-Jan-2019 22:07:42 UTC] PHP Fatal error:  Uncaught TypeError: Argument 2 passed to _include() must be of the type array, null given, called in /home/a44733/public_html/aftaa.ru/index.php on line 60 and defined in /home/a44733/public_html/aftaa.ru/_include.php:6
+Stack trace:
+#0 /home/a44733/public_html/aftaa.ru/index.php(60): _include('social', NULL)
+#1 {main}
+  thrown in /home/a44733/public_html/aftaa.ru/_include.php on line 6
+[31-Jan-2019 22:07:44 UTC] PHP Warning:  link() expects exactly 2 parameters, 0 given in /home/a44733/public_html/aftaa.ru/index.php on line 60
+[31-Jan-2019 22:07:44 UTC] PHP Fatal error:  Uncaught TypeError: Argument 2 passed to _include() must be of the type array, null given, called in /home/a44733/public_html/aftaa.ru/index.php on line 60 and defined in /home/a44733/public_html/aftaa.ru/_include.php:6
+Stack trace:
+#0 /home/a44733/public_html/aftaa.ru/index.php(60): _include('social', NULL)
+#1 {main}
+  thrown in /home/a44733/public_html/aftaa.ru/_include.php on line 6
+[31-Jan-2019 22:07:46 UTC] PHP Warning:  link() expects exactly 2 parameters, 0 given in /home/a44733/public_html/aftaa.ru/index.php on line 60
+[31-Jan-2019 22:07:46 UTC] PHP Fatal error:  Uncaught TypeError: Argument 2 passed to _include() must be of the type array, null given, called in /home/a44733/public_html/aftaa.ru/index.php on line 60 and defined in /home/a44733/public_html/aftaa.ru/_include.php:6
+Stack trace:
+#0 /home/a44733/public_html/aftaa.ru/index.php(60): _include('social', NULL)
+#1 {main}
+  thrown in /home/a44733/public_html/aftaa.ru/_include.php on line 6
+[17-Mar-2019 06:05:39 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/a44733/public_html/aftaa.ru/storage/LinkBlockJsonStorage.php on line 39
+[17-Mar-2019 06:06:01 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function storage\LinkBlockJsonStorage::__construct(), 0 passed in /home/a44733/public_html/aftaa.ru/_data.php on line 3 and exactly 1 expected in /home/a44733/public_html/aftaa.ru/storage/LinkBlockJsonStorage.php:23
+Stack trace:
+#0 /home/a44733/public_html/aftaa.ru/_data.php(3): storage\LinkBlockJsonStorage->__construct()
+#1 /home/a44733/public_html/aftaa.ru/index.php(4): require_once('/home/a44733/pu...')
+#2 {main}
+  thrown in /home/a44733/public_html/aftaa.ru/storage/LinkBlockJsonStorage.php on line 23
+[17-Mar-2019 06:06:39 UTC] PHP Warning:  Directory::read(): Unable to find my handle property in /home/a44733/public_html/aftaa.ru/storage/LinkBlockJsonStorage.php on line 39
+[17-Mar-2019 07:25:46 UTC] PHP Warning:  Directory::read(): Unable to find my handle property in /home/a44733/public_html/aftaa.ru/storage/LinkBlockJsonStorage.php on line 39
+[17-Mar-2019 09:30:02 UTC] PHP Warning:  Directory::read(): Unable to find my handle property in /home/a44733/public_html/aftaa.ru/storage/LinkBlockJsonStorage.php on line 39
+[17-Mar-2019 09:42:09 UTC] PHP Warning:  Directory::read(): Unable to find my handle property in /home/a44733/public_html/aftaa.ru/storage/LinkBlockJsonStorage.php on line 39
+[17-Mar-2019 09:42:12 UTC] PHP Warning:  Directory::read(): Unable to find my handle property in /home/a44733/public_html/aftaa.ru/storage/LinkBlockJsonStorage.php on line 39
+[17-Mar-2019 12:45:43 UTC] PHP Warning:  Directory::read(): Unable to find my handle property in /home/a44733/public_html/aftaa.ru/storage/LinkBlockJsonStorage.php on line 39
+[17-Mar-2019 12:53:36 UTC] PHP Warning:  Directory::read(): Unable to find my handle property in /home/a44733/public_html/aftaa.ru/storage/LinkBlockJsonStorage.php on line 39
+[17-Mar-2019 13:06:22 UTC] PHP Warning:  Directory::read(): Unable to find my handle property in /home/a44733/public_html/aftaa.ru/storage/LinkBlockJsonStorage.php on line 39
+[17-Mar-2019 13:09:27 UTC] PHP Warning:  Directory::read(): Unable to find my handle property in /home/a44733/public_html/aftaa.ru/storage/LinkBlockJsonStorage.php on line 39
+[17-Mar-2019 13:18:15 UTC] PHP Warning:  Directory::read(): Unable to find my handle property in /home/a44733/public_html/aftaa.ru/storage/LinkBlockJsonStorage.php on line 39
+[17-Mar-2019 14:02:44 UTC] PHP Warning:  Directory::read(): Unable to find my handle property in /home/a44733/public_html/aftaa.ru/storage/LinkBlockJsonStorage.php on line 39
+[17-Mar-2019 14:59:34 UTC] PHP Warning:  Directory::read(): Unable to find my handle property in /home/a44733/public_html/aftaa.ru/storage/LinkBlockJsonStorage.php on line 39
+[17-Mar-2019 15:09:30 UTC] PHP Warning:  Directory::read(): Unable to find my handle property in /home/a44733/public_html/aftaa.ru/storage/LinkBlockJsonStorage.php on line 39
+[17-Mar-2019 15:39:52 UTC] PHP Warning:  Directory::read(): Unable to find my handle property in /home/a44733/public_html/aftaa.ru/storage/LinkBlockJsonStorage.php on line 39
+[17-Mar-2019 16:48:38 UTC] PHP Warning:  Directory::read(): Unable to find my handle property in /home/a44733/public_html/aftaa.ru/storage/LinkBlockJsonStorage.php on line 39
+[17-Mar-2019 18:12:35 UTC] PHP Warning:  Directory::read(): Unable to find my handle property in /home/a44733/public_html/aftaa.ru/storage/LinkBlockJsonStorage.php on line 39
+[17-Mar-2019 18:21:57 UTC] PHP Warning:  Directory::read(): Unable to find my handle property in /home/a44733/public_html/aftaa.ru/storage/LinkBlockJsonStorage.php on line 39
+[17-Mar-2019 20:31:07 UTC] PHP Warning:  Directory::read(): Unable to find my handle property in /home/a44733/public_html/aftaa.ru/storage/LinkBlockJsonStorage.php on line 39
+[17-Mar-2019 20:49:32 UTC] PHP Warning:  Directory::read(): Unable to find my handle property in /home/a44733/public_html/aftaa.ru/storage/LinkBlockJsonStorage.php on line 39
+[17-Mar-2019 21:22:17 UTC] PHP Warning:  Directory::read(): Unable to find my handle property in /home/a44733/public_html/aftaa.ru/storage/LinkBlockJsonStorage.php on line 39
+[17-Mar-2019 21:29:18 UTC] PHP Warning:  Directory::read(): Unable to find my handle property in /home/a44733/public_html/aftaa.ru/storage/LinkBlockJsonStorage.php on line 39
+[17-Mar-2019 21:29:28 UTC] PHP Warning:  Directory::read(): Unable to find my handle property in /home/a44733/public_html/aftaa.ru/storage/LinkBlockJsonStorage.php on line 39
+[17-Mar-2019 21:29:39 UTC] PHP Warning:  Directory::read(): Unable to find my handle property in /home/a44733/public_html/aftaa.ru/storage/LinkBlockJsonStorage.php on line 39
+[17-Mar-2019 21:33:12 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to builder\LinkBlockJsonBuilder::build() must be of the type array, string given, called in /home/a44733/public_html/aftaa.ru/storage/LinkBlockJsonStorage.php on line 41 and defined in /home/a44733/public_html/aftaa.ru/builder/LinkBlockJsonBuilder.php:16
+Stack trace:
+#0 /home/a44733/public_html/aftaa.ru/storage/LinkBlockJsonStorage.php(41): builder\LinkBlockJsonBuilder->build('{\n  "name": "so...')
+#1 /home/a44733/public_html/aftaa.ru/_data.php(4): storage\LinkBlockJsonStorage->getLinkBlocks()
+#2 /home/a44733/public_html/aftaa.ru/index.php(4): require_once('/home/a44733/pu...')
+#3 {main}
+  thrown in /home/a44733/public_html/aftaa.ru/builder/LinkBlockJsonBuilder.php on line 16
+[17-Mar-2019 21:34:08 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to builder\LinkBlockJsonBuilder::build() must be of the type array, object given, called in /home/a44733/public_html/aftaa.ru/storage/LinkBlockJsonStorage.php on line 42 and defined in /home/a44733/public_html/aftaa.ru/builder/LinkBlockJsonBuilder.php:16
+Stack trace:
+#0 /home/a44733/public_html/aftaa.ru/storage/LinkBlockJsonStorage.php(42): builder\LinkBlockJsonBuilder->build(Object(stdClass))
+#1 /home/a44733/public_html/aftaa.ru/_data.php(4): storage\LinkBlockJsonStorage->getLinkBlocks()
+#2 /home/a44733/public_html/aftaa.ru/index.php(4): require_once('/home/a44733/pu...')
+#3 {main}
+  thrown in /home/a44733/public_html/aftaa.ru/builder/LinkBlockJsonBuilder.php on line 16
+[17-Mar-2019 21:34:22 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/a44733/public_html/aftaa.ru/builder/LinkBlockJsonBuilder.php:18
+Stack trace:
+#0 /home/a44733/public_html/aftaa.ru/storage/LinkBlockJsonStorage.php(42): builder\LinkBlockJsonBuilder->build(Object(stdClass))
+#1 /home/a44733/public_html/aftaa.ru/_data.php(4): storage\LinkBlockJsonStorage->getLinkBlocks()
+#2 /home/a44733/public_html/aftaa.ru/index.php(4): require_once('/home/a44733/pu...')
+#3 {main}
+  thrown in /home/a44733/public_html/aftaa.ru/builder/LinkBlockJsonBuilder.php on line 18
+[17-Mar-2019 21:34:47 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/a44733/public_html/aftaa.ru/builder/LinkBlockJsonBuilder.php:19
+Stack trace:
+#0 /home/a44733/public_html/aftaa.ru/storage/LinkBlockJsonStorage.php(42): builder\LinkBlockJsonBuilder->build(Object(stdClass))
+#1 /home/a44733/public_html/aftaa.ru/_data.php(4): storage\LinkBlockJsonStorage->getLinkBlocks()
+#2 /home/a44733/public_html/aftaa.ru/index.php(4): require_once('/home/a44733/pu...')
+#3 {main}
+  thrown in /home/a44733/public_html/aftaa.ru/builder/LinkBlockJsonBuilder.php on line 19
+[17-Mar-2019 21:35:09 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function entity\LinkBlock::__construct(), 1 passed in /home/a44733/public_html/aftaa.ru/builder/LinkBlockJsonBuilder.php on line 19 and exactly 2 expected in /home/a44733/public_html/aftaa.ru/entity/LinkBlock.php:22
+Stack trace:
+#0 /home/a44733/public_html/aftaa.ru/builder/LinkBlockJsonBuilder.php(19): entity\LinkBlock->__construct('social')
+#1 /home/a44733/public_html/aftaa.ru/storage/LinkBlockJsonStorage.php(42): builder\LinkBlockJsonBuilder->build(Object(stdClass))
+#2 /home/a44733/public_html/aftaa.ru/_data.php(4): storage\LinkBlockJsonStorage->getLinkBlocks()
+#3 /home/a44733/public_html/aftaa.ru/index.php(4): require_once('/home/a44733/pu...')
+#4 {main}
+  thrown in /home/a44733/public_html/aftaa.ru/entity/LinkBlock.php on line 22
+[17-Mar-2019 21:35:58 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/a44733/public_html/aftaa.ru/builder/LinkBlockJsonBuilder.php:20
+Stack trace:
+#0 /home/a44733/public_html/aftaa.ru/storage/LinkBlockJsonStorage.php(42): builder\LinkBlockJsonBuilder->build(Object(stdClass))
+#1 /home/a44733/public_html/aftaa.ru/_data.php(4): storage\LinkBlockJsonStorage->getLinkBlocks()
+#2 /home/a44733/public_html/aftaa.ru/index.php(4): require_once('/home/a44733/pu...')
+#3 {main}
+  thrown in /home/a44733/public_html/aftaa.ru/builder/LinkBlockJsonBuilder.php on line 20
+[17-Mar-2019 21:36:17 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/a44733/public_html/aftaa.ru/builder/LinkBlockJsonBuilder.php:22
+Stack trace:
+#0 /home/a44733/public_html/aftaa.ru/storage/LinkBlockJsonStorage.php(42): builder\LinkBlockJsonBuilder->build(Object(stdClass))
+#1 /home/a44733/public_html/aftaa.ru/_data.php(4): storage\LinkBlockJsonStorage->getLinkBlocks()
+#2 /home/a44733/public_html/aftaa.ru/index.php(4): require_once('/home/a44733/pu...')
+#3 {main}
+  thrown in /home/a44733/public_html/aftaa.ru/builder/LinkBlockJsonBuilder.php on line 22
+[17-Mar-2019 21:36:19 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/a44733/public_html/aftaa.ru/builder/LinkBlockJsonBuilder.php:22
+Stack trace:
+#0 /home/a44733/public_html/aftaa.ru/storage/LinkBlockJsonStorage.php(42): builder\LinkBlockJsonBuilder->build(Object(stdClass))
+#1 /home/a44733/public_html/aftaa.ru/_data.php(4): storage\LinkBlockJsonStorage->getLinkBlocks()
+#2 /home/a44733/public_html/aftaa.ru/index.php(4): require_once('/home/a44733/pu...')
+#3 {main}
+  thrown in /home/a44733/public_html/aftaa.ru/builder/LinkBlockJsonBuilder.php on line 22
+[17-Mar-2019 21:36:58 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function entity\LinkBlock::__construct(), 1 passed in /home/a44733/public_html/aftaa.ru/builder/LinkBlockJsonBuilder.php on line 19 and exactly 2 expected in /home/a44733/public_html/aftaa.ru/entity/LinkBlock.php:22
+Stack trace:
+#0 /home/a44733/public_html/aftaa.ru/builder/LinkBlockJsonBuilder.php(19): entity\LinkBlock->__construct('social')
+#1 /home/a44733/public_html/aftaa.ru/storage/LinkBlockJsonStorage.php(42): builder\LinkBlockJsonBuilder->build(Object(stdClass))
+#2 /home/a44733/public_html/aftaa.ru/_data.php(4): storage\LinkBlockJsonStorage->getLinkBlocks()
+#3 /home/a44733/public_html/aftaa.ru/index.php(4): require_once('/home/a44733/pu...')
+#4 {main}
+  thrown in /home/a44733/public_html/aftaa.ru/entity/LinkBlock.php on line 22
+[17-Mar-2019 22:26:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method storage\LinkBlockJsonStorage::getLinkBlocks() in /home/a44733/public_html/aftaa.ru/_data.php:4
+Stack trace:
+#0 /home/a44733/public_html/aftaa.ru/index.php(4): require_once()
+#1 {main}
+  thrown in /home/a44733/public_html/aftaa.ru/_data.php on line 4
+[17-Mar-2019 22:26:57 UTC] PHP Notice:  Undefined index: links in /home/a44733/public_html/aftaa.ru/_data.php on line 4
+[17-Mar-2019 22:26:57 UTC] PHP Warning:  ksort() expects parameter 1 to be array, null given in /home/a44733/public_html/aftaa.ru/_data.php on line 94
+[17-Mar-2019 22:26:57 UTC] PHP Fatal error:  Uncaught TypeError: Argument 2 passed to _include() must be of the type array, null given, called in /home/a44733/public_html/aftaa.ru/index.php on line 37 and defined in /home/a44733/public_html/aftaa.ru/_include.php:6
+Stack trace:
+#0 /home/a44733/public_html/aftaa.ru/index.php(37): _include('social', NULL)
+#1 {main}
+  thrown in /home/a44733/public_html/aftaa.ru/_include.php on line 6
+[17-Mar-2019 22:28:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method storage\LinkBlockJsonStorage::getAll() in /home/a44733/public_html/aftaa.ru/_data.php:4
+Stack trace:
+#0 /home/a44733/public_html/aftaa.ru/index.php(4): require_once()
+#1 {main}
+  thrown in /home/a44733/public_html/aftaa.ru/_data.php on line 4
+[17-Mar-2019 22:28:41 UTC] PHP Notice:  Undefined index: links in /home/a44733/public_html/aftaa.ru/_data.php on line 4
+[17-Mar-2019 22:28:41 UTC] PHP Fatal error:  Uncaught TypeError: Argument 2 passed to _include() must be of the type array, null given, called in /home/a44733/public_html/aftaa.ru/index.php on line 37 and defined in /home/a44733/public_html/aftaa.ru/_include.php:6
+Stack trace:
+#0 /home/a44733/public_html/aftaa.ru/index.php(37): _include('social', NULL)
+#1 {main}
+  thrown in /home/a44733/public_html/aftaa.ru/_include.php on line 6
+[17-Mar-2019 22:29:19 UTC] PHP Fatal error:  Uncaught TypeError: Argument 2 passed to _include() must be of the type array, object given, called in /home/a44733/public_html/aftaa.ru/index.php on line 37 and defined in /home/a44733/public_html/aftaa.ru/_include.php:6
+Stack trace:
+#0 /home/a44733/public_html/aftaa.ru/index.php(37): _include('social', Object(entity\LinkBlock))
+#1 {main}
+  thrown in /home/a44733/public_html/aftaa.ru/_include.php on line 6
+[17-Mar-2019 22:31:29 UTC] PHP Notice:  Undefined variable: social in /home/a44733/public_html/aftaa.ru/index.php on line 37
+[17-Mar-2019 22:31:29 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to _includeLinkBlock() must be an instance of entity\LinkBlock, null given, called in /home/a44733/public_html/aftaa.ru/index.php on line 37 and defined in /home/a44733/public_html/aftaa.ru/_include.php:17
+Stack trace:
+#0 /home/a44733/public_html/aftaa.ru/index.php(37): _includeLinkBlock(NULL)
+#1 {main}
+  thrown in /home/a44733/public_html/aftaa.ru/_include.php on line 17
+[17-Mar-2019 22:33:45 UTC] PHP Warning:  include(_linkBlock.php): failed to open stream: No such file or directory in /home/a44733/public_html/aftaa.ru/_include.php on line 19
+[17-Mar-2019 22:33:45 UTC] PHP Warning:  include(_linkBlock.php): failed to open stream: No such file or directory in /home/a44733/public_html/aftaa.ru/_include.php on line 19
+[17-Mar-2019 22:33:45 UTC] PHP Warning:  include(): Failed opening '_linkBlock.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/a44733/public_html/aftaa.ru/_include.php on line 19
+[17-Mar-2019 22:35:21 UTC] PHP Notice:  Undefined variable: block in /home/a44733/public_html/aftaa.ru/_linkBlock.php on line 7
+[17-Mar-2019 22:35:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getName() on null in /home/a44733/public_html/aftaa.ru/_linkBlock.php:7
+Stack trace:
+#0 /home/a44733/public_html/aftaa.ru/_include.php(19): include()
+#1 /home/a44733/public_html/aftaa.ru/index.php(37): _includeLinkBlock(Object(entity\LinkBlock))
+#2 {main}
+  thrown in /home/a44733/public_html/aftaa.ru/_linkBlock.php on line 7
+[17-Mar-2019 22:35:48 UTC] PHP Notice:  Undefined variable: dataSet in /home/a44733/public_html/aftaa.ru/_linkBlock.php on line 8
+[17-Mar-2019 22:35:48 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/a44733/public_html/aftaa.ru/_linkBlock.php on line 8
+[17-Mar-2019 22:48:49 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function builder\LinkBlockJsonBuilder::__construct(), 0 passed in /home/a44733/public_html/aftaa.ru/storage/LinkBlockJsonStorage.php on line 36 and exactly 1 expected in /home/a44733/public_html/aftaa.ru/builder/LinkBlockJsonBuilder.php:23
+Stack trace:
+#0 /home/a44733/public_html/aftaa.ru/storage/LinkBlockJsonStorage.php(36): builder\LinkBlockJsonBuilder->__construct()
+#1 /home/a44733/public_html/aftaa.ru/_data.php(4): storage\LinkBlockJsonStorage->getAll()
+#2 /home/a44733/public_html/aftaa.ru/index.php(4): require_once('/home/a44733/pu...')
+#3 {main}
+  thrown in /home/a44733/public_html/aftaa.ru/builder/LinkBlockJsonBuilder.php on line 23
+[17-Mar-2019 22:49:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method builder\LinkBlockJsonBuilder::linkPrivateStrategy() in /home/a44733/public_html/aftaa.ru/builder/LinkBlockJsonBuilder.php:40
+Stack trace:
+#0 /home/a44733/public_html/aftaa.ru/storage/LinkBlockJsonStorage.php(43): builder\LinkBlockJsonBuilder->build(Object(stdClass))
+#1 /home/a44733/public_html/aftaa.ru/_data.php(4): storage\LinkBlockJsonStorage->getAll()
+#2 /home/a44733/public_html/aftaa.ru/index.php(4): require_once('/home/a44733/pu...')
+#3 {main}
+  thrown in /home/a44733/public_html/aftaa.ru/builder/LinkBlockJsonBuilder.php on line 40
+[17-Mar-2019 22:57:30 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/a44733/public_html/aftaa.ru/entity/LinkBlock.php on line 59
+[17-Mar-2019 23:06:31 UTC] PHP Notice:  Trying to get property 'name' of non-object in /home/a44733/public_html/aftaa.ru/storage/LinkBlockJsonStorage.php on line 43
+[17-Mar-2019 23:06:31 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to builder\LinkBlockJsonBuilder::build() must be an instance of stdClass, null given, called in /home/a44733/public_html/aftaa.ru/storage/LinkBlockJsonStorage.php on line 43 and defined in /home/a44733/public_html/aftaa.ru/builder/LinkBlockJsonBuilder.php:33
+Stack trace:
+#0 /home/a44733/public_html/aftaa.ru/storage/LinkBlockJsonStorage.php(43): builder\LinkBlockJsonBuilder->build(NULL)
+#1 /home/a44733/public_html/aftaa.ru/_data.php(4): storage\LinkBlockJsonStorage->getAll()
+#2 /home/a44733/public_html/aftaa.ru/index.php(4): require_once('/home/a44733/pu...')
+#3 {main}
+  thrown in /home/a44733/public_html/aftaa.ru/builder/LinkBlockJsonBuilder.php on line 33
+[17-Mar-2019 23:06:37 UTC] PHP Fatal error:  Uncaught TypeError: Argument 4 passed to vo\Link::__construct() must be an instance of vo\Icon or null, string given, called in /home/a44733/public_html/aftaa.ru/builder/LinkBlockJsonBuilder.php on line 41 and defined in /home/a44733/public_html/aftaa.ru/vo/Link.php:33
+Stack trace:
+#0 /home/a44733/public_html/aftaa.ru/builder/LinkBlockJsonBuilder.php(41): vo\Link->__construct('foursquare', 'https://ru.four...', false, 'https://ru.four...')
+#1 /home/a44733/public_html/aftaa.ru/storage/LinkBlockJsonStorage.php(43): builder\LinkBlockJsonBuilder->build(Object(stdClass))
+#2 /home/a44733/public_html/aftaa.ru/_data.php(4): storage\LinkBlockJsonStorage->getAll()
+#3 /home/a44733/public_html/aftaa.ru/index.php(4): require_once('/home/a44733/pu...')
+#4 {main}
+  thrown in /home/a44733/public_html/aftaa.ru/vo/Link.php on line 33
+[17-Mar-2019 23:10:04 UTC] PHP Fatal error:  Uncaught TypeError: Return value of vo\Link::getIcon() must be an instance of vo\Icon, null returned in /home/a44733/public_html/aftaa.ru/vo/Link.php:70
+Stack trace:
+#0 /home/a44733/public_html/aftaa.ru/_linkBlock.php(10): vo\Link->getIcon()
+#1 /home/a44733/public_html/aftaa.ru/_include.php(19): include('/home/a44733/pu...')
+#2 /home/a44733/public_html/aftaa.ru/index.php(37): _includeLinkBlock(Object(entity\LinkBlock))
+#3 {main}
+  thrown in /home/a44733/public_html/aftaa.ru/vo/Link.php on line 70
+[17-Mar-2019 23:10:22 UTC] PHP Fatal error:  Uncaught TypeError: Return value of vo\Link::getIcon() must be an instance of vo\Icon, null returned in /home/a44733/public_html/aftaa.ru/vo/Link.php:70
+Stack trace:
+#0 /home/a44733/public_html/aftaa.ru/_linkBlock.php(10): vo\Link->getIcon()
+#1 /home/a44733/public_html/aftaa.ru/_include.php(19): include('/home/a44733/pu...')
+#2 /home/a44733/public_html/aftaa.ru/index.php(37): _includeLinkBlock(Object(entity\LinkBlock))
+#3 {main}
+  thrown in /home/a44733/public_html/aftaa.ru/vo/Link.php on line 70
+[18-Mar-2019 00:10:22 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/a44733/public_html/aftaa.ru/builder/LinkBlockJsonBuilder.php on line 53
+[18-Mar-2019 00:10:33 UTC] PHP Notice:  Undefined variable: link in /home/a44733/public_html/aftaa.ru/factory/IconFactory.php on line 20
+[18-Mar-2019 00:10:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getIcon() on null in /home/a44733/public_html/aftaa.ru/factory/IconFactory.php:20
+Stack trace:
+#0 /home/a44733/public_html/aftaa.ru/builder/LinkBlockJsonBuilder.php(48): factory\IconFactory::getIcon(NULL, 'https://docs.go...')
+#1 /home/a44733/public_html/aftaa.ru/storage/LinkBlockJsonStorage.php(43): builder\LinkBlockJsonBuilder->build(Object(stdClass))
+#2 /home/a44733/public_html/aftaa.ru/_data.php(4): storage\LinkBlockJsonStorage->getAll()
+#3 /home/a44733/public_html/aftaa.ru/index.php(4): require_once('/home/a44733/pu...')
+#4 {main}
+  thrown in /home/a44733/public_html/aftaa.ru/factory/IconFactory.php on line 20
+[18-Mar-2019 00:18:29 UTC] PHP Warning:  Use of undefined constant truu - assumed 'truu' (this will throw an Error in a future version of PHP) in /home/a44733/public_html/aftaa.ru/factory/IconFactory.php on line 19
+[18-Mar-2019 00:18:29 UTC] PHP Warning:  Use of undefined constant truu - assumed 'truu' (this will throw an Error in a future version of PHP) in /home/a44733/public_html/aftaa.ru/factory/IconFactory.php on line 19
+[18-Mar-2019 00:18:29 UTC] PHP Warning:  Use of undefined constant truu - assumed 'truu' (this will throw an Error in a future version of PHP) in /home/a44733/public_html/aftaa.ru/factory/IconFactory.php on line 19
+[18-Mar-2019 00:18:29 UTC] PHP Warning:  Use of undefined constant truu - assumed 'truu' (this will throw an Error in a future version of PHP) in /home/a44733/public_html/aftaa.ru/factory/IconFactory.php on line 19
+[18-Mar-2019 00:18:29 UTC] PHP Warning:  Use of undefined constant truu - assumed 'truu' (this will throw an Error in a future version of PHP) in /home/a44733/public_html/aftaa.ru/factory/IconFactory.php on line 19
+[18-Mar-2019 00:18:29 UTC] PHP Warning:  Use of undefined constant truu - assumed 'truu' (this will throw an Error in a future version of PHP) in /home/a44733/public_html/aftaa.ru/factory/IconFactory.php on line 19
+[18-Mar-2019 00:18:29 UTC] PHP Warning:  Use of undefined constant truu - assumed 'truu' (this will throw an Error in a future version of PHP) in /home/a44733/public_html/aftaa.ru/factory/IconFactory.php on line 19
+[18-Mar-2019 00:18:29 UTC] PHP Warning:  Use of undefined constant truu - assumed 'truu' (this will throw an Error in a future version of PHP) in /home/a44733/public_html/aftaa.ru/factory/IconFactory.php on line 19
+[18-Mar-2019 00:18:29 UTC] PHP Warning:  Use of undefined constant truu - assumed 'truu' (this will throw an Error in a future version of PHP) in /home/a44733/public_html/aftaa.ru/factory/IconFactory.php on line 19
+[18-Mar-2019 00:18:29 UTC] PHP Warning:  Use of undefined constant truu - assumed 'truu' (this will throw an Error in a future version of PHP) in /home/a44733/public_html/aftaa.ru/factory/IconFactory.php on line 19
+[18-Mar-2019 00:18:29 UTC] PHP Warning:  Use of undefined constant truu - assumed 'truu' (this will throw an Error in a future version of PHP) in /home/a44733/public_html/aftaa.ru/factory/IconFactory.php on line 19
+[18-Mar-2019 00:18:29 UTC] PHP Warning:  Use of undefined constant truu - assumed 'truu' (this will throw an Error in a future version of PHP) in /home/a44733/public_html/aftaa.ru/factory/IconFactory.php on line 19
+[18-Mar-2019 00:18:29 UTC] PHP Warning:  Use of undefined constant truu - assumed 'truu' (this will throw an Error in a future version of PHP) in /home/a44733/public_html/aftaa.ru/factory/IconFactory.php on line 19
+[18-Mar-2019 00:18:29 UTC] PHP Warning:  Use of undefined constant truu - assumed 'truu' (this will throw an Error in a future version of PHP) in /home/a44733/public_html/aftaa.ru/factory/IconFactory.php on line 19
+[18-Mar-2019 00:18:29 UTC] PHP Warning:  Use of undefined constant truu - assumed 'truu' (this will throw an Error in a future version of PHP) in /home/a44733/public_html/aftaa.ru/factory/IconFactory.php on line 19
+[18-Mar-2019 00:18:29 UTC] PHP Warning:  Use of undefined constant truu - assumed 'truu' (this will throw an Error in a future version of PHP) in /home/a44733/public_html/aftaa.ru/factory/IconFactory.php on line 19
+[18-Mar-2019 00:18:29 UTC] PHP Warning:  Use of undefined constant truu - assumed 'truu' (this will throw an Error in a future version of PHP) in /home/a44733/public_html/aftaa.ru/factory/IconFactory.php on line 19
+[18-Mar-2019 00:19:35 UTC] PHP Fatal error:  Uncaught TypeError: Return value of factory\IconFactory::getIcon() must be an instance of vo\Icon or null, none returned in /home/a44733/public_html/aftaa.ru/factory/IconFactory.php:28
+Stack trace:
+#0 /home/a44733/public_html/aftaa.ru/builder/LinkBlockJsonBuilder.php(48): factory\IconFactory::getIcon(Object(vo\Icon), 'https://ru.four...')
+#1 /home/a44733/public_html/aftaa.ru/storage/LinkBlockJsonStorage.php(43): builder\LinkBlockJsonBuilder->build(Object(stdClass))
+#2 /home/a44733/public_html/aftaa.ru/_data.php(4): storage\LinkBlockJsonStorage->getAll()
+#3 /home/a44733/public_html/aftaa.ru/index.php(4): require_once('/home/a44733/pu...')
+#4 {main}
+  thrown in /home/a44733/public_html/aftaa.ru/factory/IconFactory.php on line 28
+[18-Mar-2019 00:20:05 UTC] PHP Fatal error:  Uncaught TypeError: Return value of factory\IconFactory::getIcon() must be an instance of vo\Icon or null, none returned in /home/a44733/public_html/aftaa.ru/factory/IconFactory.php:28
+Stack trace:
+#0 /home/a44733/public_html/aftaa.ru/builder/LinkBlockJsonBuilder.php(48): factory\IconFactory::getIcon(Object(vo\Icon), 'https://ru.four...')
+#1 /home/a44733/public_html/aftaa.ru/storage/LinkBlockJsonStorage.php(43): builder\LinkBlockJsonBuilder->build(Object(stdClass))
+#2 /home/a44733/public_html/aftaa.ru/_data.php(4): storage\LinkBlockJsonStorage->getAll()
+#3 /home/a44733/public_html/aftaa.ru/index.php(4): require_once('/home/a44733/pu...')
+#4 {main}
+  thrown in /home/a44733/public_html/aftaa.ru/factory/IconFactory.php on line 28
+[21-Mar-2019 19:39:33 UTC] PHP Notice:  Undefined index: icq in /home/a44733/public_html/aftaa.ru/index.php on line 41
+[21-Mar-2019 19:39:33 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to _includeLinkBlock() must be an instance of entity\LinkBlock, null given, called in /home/a44733/public_html/aftaa.ru/index.php on line 41 and defined in /home/a44733/public_html/aftaa.ru/_include.php:17
+Stack trace:
+#0 /home/a44733/public_html/aftaa.ru/index.php(41): _includeLinkBlock(NULL)
+#1 {main}
+  thrown in /home/a44733/public_html/aftaa.ru/_include.php on line 17
+[21-Mar-2019 19:40:24 UTC] PHP Notice:  Undefined index: icq in /home/a44733/public_html/aftaa.ru/index.php on line 41
+[21-Mar-2019 19:40:24 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to _includeLinkBlock() must be an instance of entity\LinkBlock, null given, called in /home/a44733/public_html/aftaa.ru/index.php on line 41 and defined in /home/a44733/public_html/aftaa.ru/_include.php:17
+Stack trace:
+#0 /home/a44733/public_html/aftaa.ru/index.php(41): _includeLinkBlock(NULL)
+#1 {main}
+  thrown in /home/a44733/public_html/aftaa.ru/_include.php on line 17
+[21-Mar-2019 19:40:40 UTC] PHP Notice:  Undefined index: icq in /home/a44733/public_html/aftaa.ru/index.php on line 33
+[21-Mar-2019 19:40:40 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to _includeLinkBlock() must be an instance of entity\LinkBlock, null given, called in /home/a44733/public_html/aftaa.ru/index.php on line 33 and defined in /home/a44733/public_html/aftaa.ru/_include.php:17
+Stack trace:
+#0 /home/a44733/public_html/aftaa.ru/index.php(33): _includeLinkBlock(NULL)
+#1 {main}
+  thrown in /home/a44733/public_html/aftaa.ru/_include.php on line 17
+[21-Mar-2019 19:40:50 UTC] PHP Notice:  Undefined index: icq in /home/a44733/public_html/aftaa.ru/index.php on line 33
+[21-Mar-2019 19:40:50 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to _includeLinkBlock() must be an instance of entity\LinkBlock, null given, called in /home/a44733/public_html/aftaa.ru/index.php on line 33 and defined in /home/a44733/public_html/aftaa.ru/_include.php:17
+Stack trace:
+#0 /home/a44733/public_html/aftaa.ru/index.php(33): _includeLinkBlock(NULL)
+#1 {main}
+  thrown in /home/a44733/public_html/aftaa.ru/_include.php on line 17
+[21-Mar-2019 19:40:54 UTC] PHP Notice:  Undefined index: icq in /home/a44733/public_html/aftaa.ru/index.php on line 34
+[21-Mar-2019 19:40:54 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to _includeLinkBlock() must be an instance of entity\LinkBlock, null given, called in /home/a44733/public_html/aftaa.ru/index.php on line 34 and defined in /home/a44733/public_html/aftaa.ru/_include.php:17
+Stack trace:
+#0 /home/a44733/public_html/aftaa.ru/index.php(34): _includeLinkBlock(NULL)
+#1 {main}
+  thrown in /home/a44733/public_html/aftaa.ru/_include.php on line 17
+[21-Mar-2019 19:41:16 UTC] PHP Notice:  Undefined index: skype in /home/a44733/public_html/aftaa.ru/index.php on line 34
+[21-Mar-2019 19:41:16 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to _includeLinkBlock() must be an instance of entity\LinkBlock, null given, called in /home/a44733/public_html/aftaa.ru/index.php on line 34 and defined in /home/a44733/public_html/aftaa.ru/_include.php:17
+Stack trace:
+#0 /home/a44733/public_html/aftaa.ru/index.php(34): _includeLinkBlock(NULL)
+#1 {main}
+  thrown in /home/a44733/public_html/aftaa.ru/_include.php on line 17
+[21-Mar-2019 19:44:47 UTC] PHP Notice:  Undefined index: Skype in /home/a44733/public_html/aftaa.ru/index.php on line 34
+[21-Mar-2019 19:44:47 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to _includeLinkBlock() must be an instance of entity\LinkBlock, null given, called in /home/a44733/public_html/aftaa.ru/index.php on line 34 and defined in /home/a44733/public_html/aftaa.ru/_include.php:17
+Stack trace:
+#0 /home/a44733/public_html/aftaa.ru/index.php(34): _includeLinkBlock(NULL)
+#1 {main}
+  thrown in /home/a44733/public_html/aftaa.ru/_include.php on line 17
+[21-Mar-2019 19:48:38 UTC] PHP Notice:  Undefined index: Skype in /home/a44733/public_html/aftaa.ru/index.php on line 34
+[21-Mar-2019 19:48:38 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to _includeLinkBlock() must be an instance of entity\LinkBlock, null given, called in /home/a44733/public_html/aftaa.ru/index.php on line 34 and defined in /home/a44733/public_html/aftaa.ru/_include.php:17
+Stack trace:
+#0 /home/a44733/public_html/aftaa.ru/index.php(34): _includeLinkBlock(NULL)
+#1 {main}
+  thrown in /home/a44733/public_html/aftaa.ru/_include.php on line 17
+[21-Mar-2019 19:52:37 UTC] PHP Notice:  Undefined index: Skype in /home/a44733/public_html/aftaa.ru/index.php on line 34
+[21-Mar-2019 19:52:37 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to _includeLinkBlock() must be an instance of entity\LinkBlock, null given, called in /home/a44733/public_html/aftaa.ru/index.php on line 34 and defined in /home/a44733/public_html/aftaa.ru/_include.php:17
+Stack trace:
+#0 /home/a44733/public_html/aftaa.ru/index.php(34): _includeLinkBlock(NULL)
+#1 {main}
+  thrown in /home/a44733/public_html/aftaa.ru/_include.php on line 17
+[21-Mar-2019 19:53:28 UTC] PHP Notice:  Undefined index: telegram in /home/a44733/public_html/aftaa.ru/index.php on line 35
+[21-Mar-2019 19:53:28 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to _includeLinkBlock() must be an instance of entity\LinkBlock, null given, called in /home/a44733/public_html/aftaa.ru/index.php on line 35 and defined in /home/a44733/public_html/aftaa.ru/_include.php:17
+Stack trace:
+#0 /home/a44733/public_html/aftaa.ru/index.php(35): _includeLinkBlock(NULL)
+#1 {main}
+  thrown in /home/a44733/public_html/aftaa.ru/_include.php on line 17
+[21-Mar-2019 19:54:01 UTC] PHP Notice:  Undefined index: telegram in /home/a44733/public_html/aftaa.ru/index.php on line 35
+[21-Mar-2019 19:54:01 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to _includeLinkBlock() must be an instance of entity\LinkBlock, null given, called in /home/a44733/public_html/aftaa.ru/index.php on line 35 and defined in /home/a44733/public_html/aftaa.ru/_include.php:17
+Stack trace:
+#0 /home/a44733/public_html/aftaa.ru/index.php(35): _includeLinkBlock(NULL)
+#1 {main}
+  thrown in /home/a44733/public_html/aftaa.ru/_include.php on line 17
+[21-Mar-2019 19:55:32 UTC] PHP Notice:  Undefined index: telegram in /home/a44733/public_html/aftaa.ru/index.php on line 35
+[21-Mar-2019 19:55:32 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to _includeLinkBlock() must be an instance of entity\LinkBlock, null given, called in /home/a44733/public_html/aftaa.ru/index.php on line 35 and defined in /home/a44733/public_html/aftaa.ru/_include.php:17
+Stack trace:
+#0 /home/a44733/public_html/aftaa.ru/index.php(35): _includeLinkBlock(NULL)
+#1 {main}
+  thrown in /home/a44733/public_html/aftaa.ru/_include.php on line 17
+[21-Mar-2019 19:56:28 UTC] PHP Notice:  Undefined index: telegram in /home/a44733/public_html/aftaa.ru/index.php on line 35
+[21-Mar-2019 19:56:28 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to _includeLinkBlock() must be an instance of entity\LinkBlock, null given, called in /home/a44733/public_html/aftaa.ru/index.php on line 35 and defined in /home/a44733/public_html/aftaa.ru/_include.php:17
+Stack trace:
+#0 /home/a44733/public_html/aftaa.ru/index.php(35): _includeLinkBlock(NULL)
+#1 {main}
+  thrown in /home/a44733/public_html/aftaa.ru/_include.php on line 17
+[21-Mar-2019 19:57:25 UTC] PHP Warning:  ksort() expects parameter 1 to be array, null given in /home/a44733/public_html/aftaa.ru/_data.php on line 58
+[21-Mar-2019 19:57:25 UTC] PHP Warning:  ksort() expects parameter 1 to be array, null given in /home/a44733/public_html/aftaa.ru/_data.php on line 59
+[21-Mar-2019 19:58:03 UTC] PHP Warning:  ksort() expects parameter 1 to be array, null given in /home/a44733/public_html/aftaa.ru/_data.php on line 58
+[21-Mar-2019 19:58:03 UTC] PHP Warning:  ksort() expects parameter 1 to be array, null given in /home/a44733/public_html/aftaa.ru/_data.php on line 59
+[21-Mar-2019 19:58:12 UTC] PHP Warning:  ksort() expects parameter 1 to be array, null given in /home/a44733/public_html/aftaa.ru/_data.php on line 58
+[21-Mar-2019 19:58:12 UTC] PHP Warning:  ksort() expects parameter 1 to be array, null given in /home/a44733/public_html/aftaa.ru/_data.php on line 59
+[21-Mar-2019 20:00:09 UTC] PHP Warning:  ksort() expects parameter 1 to be array, null given in /home/a44733/public_html/aftaa.ru/_data.php on line 58
+[21-Mar-2019 20:00:09 UTC] PHP Warning:  ksort() expects parameter 1 to be array, null given in /home/a44733/public_html/aftaa.ru/_data.php on line 59
+[27-Mar-2019 19:33:38 Europe/Moscow] PHP Fatal error:  require_once(): Failed opening required '/home/a44733/public_html/aftaa.ru/_data.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/a44733/public_html/aftaa.ru/index.php on line 4
+[27-Mar-2019 19:46:13 Europe/Moscow] PHP Warning:  require_once(_data.php): failed to open stream: No such file or directory in /home/a44733/public_html/aftaa.ru/index.php on line 4
+[27-Mar-2019 19:46:13 Europe/Moscow] PHP Fatal error:  require_once(): Failed opening required '_data.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/a44733/public_html/aftaa.ru/index.php on line 4
+[27-Mar-2019 19:47:11 Europe/Moscow] PHP Warning:  require_once(/home/a44733/public_html/aftaa.ru/LinkBlockJsonStorage.php): failed to open stream: No such file or directory in /home/a44733/public_html/aftaa.ru/config/__autoload.php on line 7
+[27-Mar-2019 19:47:11 Europe/Moscow] PHP Fatal error:  require_once(): Failed opening required '/home/a44733/public_html/aftaa.ru/LinkBlockJsonStorage.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/a44733/public_html/aftaa.ru/config/__autoload.php on line 7
+[27-Mar-2019 19:47:38 Europe/Moscow] PHP Warning:  require_once(/home/a44733/public_html/aftaa.ru/LinkBlockJsonStorage.php): failed to open stream: No such file or directory in /home/a44733/public_html/aftaa.ru/config/__autoload.php on line 7
+[27-Mar-2019 19:47:38 Europe/Moscow] PHP Fatal error:  require_once(): Failed opening required '/home/a44733/public_html/aftaa.ru/LinkBlockJsonStorage.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/a44733/public_html/aftaa.ru/config/__autoload.php on line 7
+[27-Mar-2019 19:47:46 Europe/Moscow] PHP Fatal error:  Uncaught Error: Call to undefined function _includeLinkBlock() in /home/a44733/public_html/aftaa.ru/index.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/a44733/public_html/aftaa.ru/index.php on line 35
+[27-Mar-2019 20:00:31 Europe/Moscow] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function helper\View::__construct(), 1 passed in /home/a44733/public_html/aftaa.ru/index.php on line 13 and exactly 2 expected in /home/a44733/public_html/aftaa.ru/helper/View.php:24
+Stack trace:
+#0 /home/a44733/public_html/aftaa.ru/index.php(13): helper\View->__construct('links-column')
+#1 {main}
+  thrown in /home/a44733/public_html/aftaa.ru/helper/View.php on line 24
+[27-Mar-2019 20:00:32 Europe/Moscow] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function helper\View::__construct(), 1 passed in /home/a44733/public_html/aftaa.ru/index.php on line 13 and exactly 2 expected in /home/a44733/public_html/aftaa.ru/helper/View.php:24
+Stack trace:
+#0 /home/a44733/public_html/aftaa.ru/index.php(13): helper\View->__construct('links-column')
+#1 {main}
+  thrown in /home/a44733/public_html/aftaa.ru/helper/View.php on line 24
+[27-Mar-2019 20:01:32 Europe/Moscow] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function helper\View::__construct(), 1 passed in /home/a44733/public_html/aftaa.ru/index.php on line 11 and exactly 2 expected in /home/a44733/public_html/aftaa.ru/helper/View.php:24
+Stack trace:
+#0 /home/a44733/public_html/aftaa.ru/index.php(11): helper\View->__construct('links-column')
+#1 {main}
+  thrown in /home/a44733/public_html/aftaa.ru/helper/View.php on line 24
+[27-Mar-2019 20:01:47 Europe/Moscow] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function helper\View::__construct(), 1 passed in /home/a44733/public_html/aftaa.ru/index.php on line 11 and exactly 2 expected in /home/a44733/public_html/aftaa.ru/helper/View.php:24
+Stack trace:
+#0 /home/a44733/public_html/aftaa.ru/index.php(11): helper\View->__construct('links-column')
+#1 {main}
+  thrown in /home/a44733/public_html/aftaa.ru/helper/View.php on line 24
+[27-Mar-2019 20:01:48 Europe/Moscow] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function helper\View::__construct(), 1 passed in /home/a44733/public_html/aftaa.ru/index.php on line 11 and exactly 2 expected in /home/a44733/public_html/aftaa.ru/helper/View.php:24
+Stack trace:
+#0 /home/a44733/public_html/aftaa.ru/index.php(11): helper\View->__construct('links-column')
+#1 {main}
+  thrown in /home/a44733/public_html/aftaa.ru/helper/View.php on line 24
+[27-Mar-2019 20:01:48 Europe/Moscow] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function helper\View::__construct(), 1 passed in /home/a44733/public_html/aftaa.ru/index.php on line 11 and exactly 2 expected in /home/a44733/public_html/aftaa.ru/helper/View.php:24
+Stack trace:
+#0 /home/a44733/public_html/aftaa.ru/index.php(11): helper\View->__construct('links-column')
+#1 {main}
+  thrown in /home/a44733/public_html/aftaa.ru/helper/View.php on line 24
+[27-Mar-2019 20:01:49 Europe/Moscow] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function helper\View::__construct(), 1 passed in /home/a44733/public_html/aftaa.ru/index.php on line 11 and exactly 2 expected in /home/a44733/public_html/aftaa.ru/helper/View.php:24
+Stack trace:
+#0 /home/a44733/public_html/aftaa.ru/index.php(11): helper\View->__construct('links-column')
+#1 {main}
+  thrown in /home/a44733/public_html/aftaa.ru/helper/View.php on line 24
+[27-Mar-2019 20:01:49 Europe/Moscow] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function helper\View::__construct(), 1 passed in /home/a44733/public_html/aftaa.ru/index.php on line 11 and exactly 2 expected in /home/a44733/public_html/aftaa.ru/helper/View.php:24
+Stack trace:
+#0 /home/a44733/public_html/aftaa.ru/index.php(11): helper\View->__construct('links-column')
+#1 {main}
+  thrown in /home/a44733/public_html/aftaa.ru/helper/View.php on line 24
+[27-Mar-2019 20:02:06 Europe/Moscow] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function helper\View::__construct(), 1 passed in /home/a44733/public_html/aftaa.ru/index.php on line 11 and exactly 2 expected in /home/a44733/public_html/aftaa.ru/helper/View.php:24
+Stack trace:
+#0 /home/a44733/public_html/aftaa.ru/index.php(11): helper\View->__construct('links-column')
+#1 {main}
+  thrown in /home/a44733/public_html/aftaa.ru/helper/View.php on line 24
+[27-Mar-2019 20:02:07 Europe/Moscow] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function helper\View::__construct(), 1 passed in /home/a44733/public_html/aftaa.ru/index.php on line 11 and exactly 2 expected in /home/a44733/public_html/aftaa.ru/helper/View.php:24
+Stack trace:
+#0 /home/a44733/public_html/aftaa.ru/index.php(11): helper\View->__construct('links-column')
+#1 {main}
+  thrown in /home/a44733/public_html/aftaa.ru/helper/View.php on line 24
+[27-Mar-2019 20:02:08 Europe/Moscow] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function helper\View::__construct(), 1 passed in /home/a44733/public_html/aftaa.ru/index.php on line 11 and exactly 2 expected in /home/a44733/public_html/aftaa.ru/helper/View.php:24
+Stack trace:
+#0 /home/a44733/public_html/aftaa.ru/index.php(11): helper\View->__construct('links-column')
+#1 {main}
+  thrown in /home/a44733/public_html/aftaa.ru/helper/View.php on line 24
+[27-Mar-2019 20:02:17 Europe/Moscow] PHP Fatal error:  Uncaught Exception: View file isn't exists: /home/a44733/public_html/aftaa.ru/view/links-column.php in /home/a44733/public_html/aftaa.ru/helper/View.php:50
+Stack trace:
+#0 /home/a44733/public_html/aftaa.ru/helper/View.php(26): helper\View->setPath('links-column')
+#1 /home/a44733/public_html/aftaa.ru/index.php(11): helper\View->__construct('links-column', Array)
+#2 {main}
+  thrown in /home/a44733/public_html/aftaa.ru/helper/View.php on line 50
+[27-Mar-2019 20:03:03 Europe/Moscow] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to helper\View::setVars() must be of the type array, object given, called in /home/a44733/public_html/aftaa.ru/index.php on line 32 and defined in /home/a44733/public_html/aftaa.ru/helper/View.php:67
+Stack trace:
+#0 /home/a44733/public_html/aftaa.ru/index.php(32): helper\View->setVars(Object(entity\LinkBlock))
+#1 {main}
+  thrown in /home/a44733/public_html/aftaa.ru/helper/View.php on line 67
+[27-Mar-2019 20:05:50 Europe/Moscow] PHP Notice:  Undefined variable: block in /home/a44733/public_html/aftaa.ru/view/links-column.php on line 6
+[27-Mar-2019 20:05:50 Europe/Moscow] PHP Fatal error:  Uncaught Error: Call to a member function getCount() on null in /home/a44733/public_html/aftaa.ru/view/links-column.php:6
+Stack trace:
+#0 /home/a44733/public_html/aftaa.ru/helper/View.php(79): include()
+#1 /home/a44733/public_html/aftaa.ru/index.php(32): helper\View->render(Array)
+#2 {main}
+  thrown in /home/a44733/public_html/aftaa.ru/view/links-column.php on line 6
+[27-Mar-2019 20:05:57 Europe/Moscow] PHP Notice:  Undefined variable: block in /home/a44733/public_html/aftaa.ru/view/links-column.php on line 6
+[27-Mar-2019 20:05:57 Europe/Moscow] PHP Fatal error:  Uncaught Error: Call to a member function getCount() on null in /home/a44733/public_html/aftaa.ru/view/links-column.php:6
+Stack trace:
+#0 /home/a44733/public_html/aftaa.ru/helper/View.php(79): include()
+#1 /home/a44733/public_html/aftaa.ru/index.php(32): helper\View->render(Array)
+#2 {main}
+  thrown in /home/a44733/public_html/aftaa.ru/view/links-column.php on line 6
+[27-Mar-2019 20:06:22 Europe/Moscow] PHP Notice:  Undefined variable: block in /home/a44733/public_html/aftaa.ru/view/links-column.php on line 6
+[27-Mar-2019 20:06:22 Europe/Moscow] PHP Fatal error:  Uncaught Error: Call to a member function getCount() on null in /home/a44733/public_html/aftaa.ru/view/links-column.php:6
+Stack trace:
+#0 /home/a44733/public_html/aftaa.ru/helper/View.php(79): include()
+#1 /home/a44733/public_html/aftaa.ru/index.php(32): helper\View->render(Array)
+#2 {main}
+  thrown in /home/a44733/public_html/aftaa.ru/view/links-column.php on line 6
+[27-Mar-2019 20:06:25 Europe/Moscow] PHP Notice:  Undefined variable: block in /home/a44733/public_html/aftaa.ru/view/links-column.php on line 6
+[27-Mar-2019 20:06:25 Europe/Moscow] PHP Fatal error:  Uncaught Error: Call to a member function getCount() on null in /home/a44733/public_html/aftaa.ru/view/links-column.php:6
+Stack trace:
+#0 /home/a44733/public_html/aftaa.ru/helper/View.php(79): include()
+#1 /home/a44733/public_html/aftaa.ru/index.php(32): helper\View->render(Array)
+#2 {main}
+  thrown in /home/a44733/public_html/aftaa.ru/view/links-column.php on line 6
+[27-Mar-2019 20:07:45 Europe/Moscow] PHP Notice:  Undefined variable: block in /home/a44733/public_html/aftaa.ru/view/links-column.php on line 8
+[27-Mar-2019 20:07:45 Europe/Moscow] PHP Fatal error:  Uncaught Error: Call to a member function getCount() on null in /home/a44733/public_html/aftaa.ru/view/links-column.php:8
+Stack trace:
+#0 /home/a44733/public_html/aftaa.ru/helper/View.php(79): include()
+#1 /home/a44733/public_html/aftaa.ru/index.php(33): helper\View->render(Array)
+#2 {main}
+  thrown in /home/a44733/public_html/aftaa.ru/view/links-column.php on line 8
+[27-Mar-2019 20:09:27 Europe/Moscow] PHP Notice:  Undefined variable: block in /home/a44733/public_html/aftaa.ru/view/links-column.php on line 8
+[27-Mar-2019 20:09:27 Europe/Moscow] PHP Fatal error:  Uncaught Error: Call to a member function getCount() on null in /home/a44733/public_html/aftaa.ru/view/links-column.php:8
+Stack trace:
+#0 /home/a44733/public_html/aftaa.ru/helper/View.php(79): include()
+#1 /home/a44733/public_html/aftaa.ru/index.php(32): helper\View->render(Array)
+#2 {main}
+  thrown in /home/a44733/public_html/aftaa.ru/view/links-column.php on line 8
+[27-Mar-2019 20:11:33 Europe/Moscow] PHP Notice:  Array to string conversion in /home/a44733/public_html/aftaa.ru/helper/View.php on line 78
+[27-Mar-2019 20:12:52 Europe/Moscow] PHP Fatal error:  Uncaught TypeError: Return value of helper\View::render() must be an instance of helper\View, none returned in /home/a44733/public_html/aftaa.ru/helper/View.php:81
+Stack trace:
+#0 /home/a44733/public_html/aftaa.ru/index.php(32): helper\View->render(Array)
+#1 {main}
+  thrown in /home/a44733/public_html/aftaa.ru/helper/View.php on line 81
+[27-Mar-2019 20:13:09 Europe/Moscow] PHP Recoverable fatal error:  Object of class helper\View could not be converted to string in /home/a44733/public_html/aftaa.ru/index.php on line 32
+[31-Mar-2019 03:09:18 Europe/Moscow] PHP Warning:  require_once(/home/a44733/public_html/aftaa.ru/LinkBlockJsonBuilder.php): failed to open stream: No such file or directory in /home/a44733/public_html/aftaa.ru/config/__autoload.php on line 7
+[31-Mar-2019 03:09:18 Europe/Moscow] PHP Fatal error:  require_once(): Failed opening required '/home/a44733/public_html/aftaa.ru/LinkBlockJsonBuilder.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/a44733/public_html/aftaa.ru/config/__autoload.php on line 7
+[31-Mar-2019 03:11:27 Europe/Moscow] PHP Warning:  require_once(/home/a44733/public_html/aftaa.ru/LinkBlockJsonBuilder.php): failed to open stream: No such file or directory in /home/a44733/public_html/aftaa.ru/config/__autoload.php on line 7
+[31-Mar-2019 03:11:27 Europe/Moscow] PHP Fatal error:  require_once(): Failed opening required '/home/a44733/public_html/aftaa.ru/LinkBlockJsonBuilder.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/a44733/public_html/aftaa.ru/config/__autoload.php on line 7
+[31-Mar-2019 03:11:32 Europe/Moscow] PHP Warning:  require_once(/home/a44733/public_html/aftaa.ru/LinkBlockJsonBuilder.php): failed to open stream: No such file or directory in /home/a44733/public_html/aftaa.ru/config/__autoload.php on line 7
+[31-Mar-2019 03:11:32 Europe/Moscow] PHP Fatal error:  require_once(): Failed opening required '/home/a44733/public_html/aftaa.ru/LinkBlockJsonBuilder.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/a44733/public_html/aftaa.ru/config/__autoload.php on line 7
+[31-Mar-2019 03:11:32 Europe/Moscow] PHP Warning:  require_once(/home/a44733/public_html/aftaa.ru/LinkBlockJsonBuilder.php): failed to open stream: No such file or directory in /home/a44733/public_html/aftaa.ru/config/__autoload.php on line 7
+[31-Mar-2019 03:11:32 Europe/Moscow] PHP Fatal error:  require_once(): Failed opening required '/home/a44733/public_html/aftaa.ru/LinkBlockJsonBuilder.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/a44733/public_html/aftaa.ru/config/__autoload.php on line 7
+[31-Mar-2019 03:11:34 Europe/Moscow] PHP Warning:  require_once(/home/a44733/public_html/aftaa.ru/LinkBlockJsonBuilder.php): failed to open stream: No such file or directory in /home/a44733/public_html/aftaa.ru/config/__autoload.php on line 7
+[31-Mar-2019 03:11:34 Europe/Moscow] PHP Fatal error:  require_once(): Failed opening required '/home/a44733/public_html/aftaa.ru/LinkBlockJsonBuilder.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/a44733/public_html/aftaa.ru/config/__autoload.php on line 7
+[07-Apr-2019 04:45:08 Europe/Moscow] PHP Notice:  Trying to get property 'name' of non-object in /home/a44733/public_html/aftaa.ru/storage/LinkBlockJsonStorage.php on line 41
+[07-Apr-2019 04:45:08 Europe/Moscow] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to builder\LinkBlockJsonBuilder::build() must be an instance of stdClass, array given, called in /home/a44733/public_html/aftaa.ru/storage/LinkBlockJsonStorage.php on line 41 and defined in /home/a44733/public_html/aftaa.ru/builder/LinkBlockJsonBuilder.php:35
+Stack trace:
+#0 /home/a44733/public_html/aftaa.ru/storage/LinkBlockJsonStorage.php(41): builder\LinkBlockJsonBuilder->build(Array)
+#1 /home/a44733/public_html/aftaa.ru/index.php(12): storage\LinkBlockJsonStorage->getAll(Object(builder\LinkBlockJsonBuilder))
+#2 {main}
+  thrown in /home/a44733/public_html/aftaa.ru/builder/LinkBlockJsonBuilder.php on line 35
+[07-Apr-2019 04:47:25 Europe/Moscow] PHP Notice:  Trying to get property 'name' of non-object in /home/a44733/public_html/aftaa.ru/storage/LinkBlockJsonStorage.php on line 43
+[07-Apr-2019 04:47:25 Europe/Moscow] PHP Notice:  Trying to get property 'name' of non-object in /home/a44733/public_html/aftaa.ru/storage/LinkBlockJsonStorage.php on line 43
+[07-Apr-2019 04:47:25 Europe/Moscow] PHP Notice:  Undefined index: lk in /home/a44733/public_html/aftaa.ru/index.php on line 44
+[07-Apr-2019 04:47:25 Europe/Moscow] PHP Fatal error:  Uncaught Error: Call to a member function getCount() on null in /home/a44733/public_html/aftaa.ru/view/links-column.php:7
+Stack trace:
+#0 /home/a44733/public_html/aftaa.ru/helper/View.php(80): include()
+#1 /home/a44733/public_html/aftaa.ru/index.php(44): helper\View->render(Array)
+#2 {main}
+  thrown in /home/a44733/public_html/aftaa.ru/view/links-column.php on line 7
+[07-Apr-2019 04:50:46 Europe/Moscow] PHP Notice:  Undefined index: finance in /home/a44733/public_html/aftaa.ru/index.php on line 45
+[07-Apr-2019 04:50:46 Europe/Moscow] PHP Fatal error:  Uncaught Error: Call to a member function getCount() on null in /home/a44733/public_html/aftaa.ru/view/links-column.php:7
+Stack trace:
+#0 /home/a44733/public_html/aftaa.ru/helper/View.php(80): include()
+#1 /home/a44733/public_html/aftaa.ru/index.php(45): helper\View->render(Array)
+#2 {main}
+  thrown in /home/a44733/public_html/aftaa.ru/view/links-column.php on line 7
+[07-Apr-2019 05:02:55 Europe/Moscow] PHP Notice:  Trying to get property 'name' of non-object in /home/a44733/public_html/aftaa.ru/storage/LinkBlockJsonStorage.php on line 46
+[07-Apr-2019 05:02:55 Europe/Moscow] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to builder\LinkBlockJsonBuilder::build() must be an instance of stdClass, null given, called in /home/a44733/public_html/aftaa.ru/storage/LinkBlockJsonStorage.php on line 46 and defined in /home/a44733/public_html/aftaa.ru/builder/LinkBlockJsonBuilder.php:35
+Stack trace:
+#0 /home/a44733/public_html/aftaa.ru/storage/LinkBlockJsonStorage.php(46): builder\LinkBlockJsonBuilder->build(NULL)
+#1 /home/a44733/public_html/aftaa.ru/index.php(12): storage\LinkBlockJsonStorage->getAll(Object(builder\LinkBlockJsonBuilder))
+#2 {main}
+  thrown in /home/a44733/public_html/aftaa.ru/builder/LinkBlockJsonBuilder.php on line 35

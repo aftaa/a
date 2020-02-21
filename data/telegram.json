@@ -1,0 +1,17 @@
+{
+  "name": "telegram",
+  "links": [
+    {
+      "name": "maximafter",
+      "href": "https://t.me/maximafter",
+      "private": false,
+      "icon": "image/telegram/favicon.ico"
+    },
+    {
+      "name": "maximgabidullin",
+      "href": "https://t.me/maximgabidullin",
+      "private": false,
+      "icon": "image/telegram/favicon.ico"
+    }
+  ]
+}

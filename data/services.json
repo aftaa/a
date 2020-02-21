@@ -1,0 +1,172 @@
+[
+  {
+    "name": "google",
+    "links": [
+      {
+        "name": "contacts",
+        "href": "https://contacts.google.com/",
+        "private": true,
+        "icon": "https://ssl.gstatic.com/images/branding/product/1x/contacts_96dp.png"
+      },
+      {
+        "name": "find",
+        "href": "https://www.google.com/android/find",
+        "private": true,
+        "icon": "https://ssl.gstatic.com/images/branding/product/1x/contacts_96dp.png"
+      },
+      {
+        "name": "maps",
+        "href": "https://www.google.com/maps",
+        "private": true,
+        "icon": "https://flowersufa.ru/assets/img/gooogle.m.jpg"
+      },
+      {
+        "name": "calendar",
+        "href": "https://calendar.google.com/calendar/r",
+        "private": true,
+        "icon": "https://calendar.google.com/googlecalendar/images/favicon_v2014_23.ico"
+      },
+      {
+        "name": "calendar import",
+        "href": "https://calendar.google.com/calendar/r/settings/export",
+        "private": true,
+        "icon": "https://calendar.google.com/googlecalendar/images/favicon_v2014_23.ico"
+      },
+      {
+        "name": "drive",
+        "href": "https://drive.google.com/drive/",
+        "private": true,
+        "icon": "auto"
+      },
+      {
+        "name": "gmail",
+        "href": "https://mail.google.com/mail/u/0/",
+        "private": true,
+        "icon": "auto"
+      },
+      {
+        "name": "keep",
+        "href": "https://keep.google.com/",
+        "private": true,
+        "icon": "https://ssl.gstatic.com/keep/keep.ico"
+      },
+      {
+        "name": "spreadsheets",
+        "href": "https://docs.google.com/spreadsheets/u/0/",
+        "private": true,
+        "icon": "https://ssl.gstatic.com/docs/spreadsheets/favicon3.ico"
+      },
+      {
+        "name": "docs",
+        "href": "https://docs.google.com/document/u/0/",
+        "private": true,
+        "icon": "https://ssl.gstatic.com/docs/documents/images/kix-favicon7.ico"
+      }
+    ]
+  },
+  {
+    "name": "yandex",
+    "links": [
+      {
+        "name": "money",
+        "href": "https://money.yandex.ru/actions?_openstat=template%3Bimenu%3Blogo",
+        "private": true,
+        "icon": "https://money.yandex.ru/favicon.ico"
+      },
+      {
+        "name": "disk",
+        "href": "https://disk.yandex.ru/client/disk",
+        "private": true,
+        "icon": "https://disk.yandex.ru/favicon.ico"
+      },
+      {
+        "name": "internet",
+        "href": "https://yandex.ru/internet/",
+        "private": true,
+        "icon": "https://yastatic.net/morda-logo/i/favicon_islands.ico"
+      },
+      {
+        "name": "mail",
+        "href": "https://mail.yandex.ru/#inbox",
+        "private": true,
+        "icon": "https://mail.yandex.ru/favicon.ico"
+      },
+      {
+        "name": "maps",
+        "href": "https://yandex.ru/maps/213/moscow/?ll=37.654226%2C55.730662&z=13.3",
+        "private": true,
+        "icon": "https://yastatic.net/s3/front-maps-static/front-maps//static/v2/icons/favicon/favicon.png"
+      },
+      {
+        "name": "pogoda",
+        "href": "https://yandex.ru/pogoda/moscow?lat=55.633213&lon=37.659318",
+        "private": true,
+        "icon": "https://yandex.ru/pogoda/static/favicon.ico"
+      },
+      {
+        "name": "translate",
+        "href": "https://translate.yandex.ru/",
+        "private": true,
+        "icon": "https://translate.yandex.ru/icons/favicon.ico"
+      },
+      {
+        "name": "tv",
+        "href": "https://tv.yandex.ru/",
+        "private": true,
+        "icon": "https://tv.yandex.ru/favicon.ico"
+      },
+      {
+        "name": "metrika",
+        "href": "https://metrika.yandex.ru/list?",
+        "private": true,
+        "icon": "https://yastatic.net/s3/metrika/_/BQoTNR-tROww0upHOLDbSqFzfYE.ico"
+      }
+    ]
+  },
+  {
+    "name": "other",
+    "links": [
+      {
+        "name": "mail.ru",
+        "href": "https://e.mail.ru/inbox/",
+        "private": true,
+        "icon": "auto"
+      },
+      {
+        "name": "messenger",
+        "href": "https://www.facebook.com/messages/",
+        "private": true,
+        "icon": "auto"
+      },
+      {
+        "name": "fssp",
+        "href": "http://fssprus.ru/iss/ip?is%5Bvariant%5D=1&is%5Blast_name%5D=%D0%93%D0%B0%D0%B1%D0%B8%D0%B4%D1%83%D0%BB%D0%BB%D0%B8%D0%BD&is%5Bfirst_name%5D=%D0%9C%D0%B0%D0%BA%D1%81%D0%B8%D0%BC&is%5Bpatronymic%5D=%D0%A4%D0%B0%D1%80%D0%B8%D1%82%D0%BE%D0%B2%D0%B8%D1%87&is%5Bdate%5D=&is%5Bregion_id%5D%5B0%5D=77",
+        "private": true,
+        "icon": "auto"
+      },
+      {
+        "name": "whatsapp",
+        "href": "https://web.whatsapp.com/",
+        "private": true,
+        "icon": "auto"
+      }
+    ]
+  },
+  {
+    "name": "routers",
+    "links": [
+      {
+        "name": "zte",
+        "href": "http://mgts/",
+        "private": true,
+        "icon": "favicons/zte.png"
+      },
+      {
+        "name": "asus",
+        "href": "http://asus/",
+        "private": true,
+        "icon": "favicons/asus.ico"
+      }
+    ]
+  }
+]

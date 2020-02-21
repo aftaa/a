@@ -1,0 +1,17 @@
+{
+  "name": "music &amp; mixes",
+  "links": [
+    {
+      "name": "mixcloud",
+      "href": "https://www.mixcloud.com/maxaftaa/uploads",
+      "private": false,
+      "icon": "auto"
+    },
+    {
+      "name": "soundcloud",
+      "href": "https://soundcloud.com/aftaa/tracks",
+      "private": false,
+      "icon": "auto"
+    }
+  ]
+}

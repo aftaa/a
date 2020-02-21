@@ -1,0 +1,23 @@
+{
+  "name": "Skype",
+  "links": [
+    {
+      "name": "aftaa.ru",
+      "href": "skype:aftaa.ru",
+      "private": true,
+      "icon": "https://secure.skypeassets.com/apollo/2.1.1077/images/icons/favicon.ico"
+    },
+    {
+      "name": "maxim.gabidullin",
+      "href": "skype:maxim.gabidullin",
+      "private": false,
+      "icon": "https://secure.skypeassets.com/apollo/2.1.1077/images/icons/favicon.ico"
+    },
+    {
+      "name": "gabidullin@gmail.com",
+      "href": "skype:gabidullin@gmail.com",
+      "private": true,
+      "icon": "https://secure.skypeassets.com/apollo/2.1.1077/images/icons/favicon.ico"
+    }
+  ]
+}

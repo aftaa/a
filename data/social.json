@@ -1,0 +1,47 @@
+{
+  "name": "social networks",
+  "links": [
+    {
+      "name": "vk",
+      "href": "https://vk.com/aftaa",
+      "private": false,
+      "icon": "https://vk.com/favicon.ico"
+    },
+    {
+      "name": "facebook",
+      "href": "https://www.facebook.com/maxaftaa?ref=bookmarks",
+      "private": false,
+      "icon": "auto"
+    },
+    {
+      "name": "ok",
+      "href": "https://ok.ru/profile/560287849372",
+      "private": false,
+      "icon": "https://ok.ru/favicon.ico"
+    },
+    {
+      "name": "lj",
+      "href": "https://aftaa.livejournal.com/",
+      "private": false,
+      "icon": "auto"
+    },
+    {
+      "name": "lepra",
+      "href": "https://leprosorium.ru/users/after",
+      "private": true,
+      "icon": "auto"
+    },
+    {
+      "name": "foursquare",
+      "href": "https://ru.foursquare.com/aftaa/history",
+      "private": false,
+      "icon": "auto"
+    },
+    {
+      "name": "swarm",
+      "href": "https://www.swarmapp.com/activity",
+      "private": false,
+      "icon": "https://ss3.4sqi.net/img/swarm/icons/favicon.ico"
+    }
+  ]
+}

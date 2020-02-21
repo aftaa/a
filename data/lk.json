@@ -1,0 +1,155 @@
+[
+  {
+    "name": "finance",
+    "links": [
+      {
+        "name": "paypal",
+        "href": "https://www.paypal.com/ru/signin",
+        "private": true,
+        "icon": "https://www.paypalobjects.com/favicon.ico"
+      },
+      {
+        "name": "qiwi",
+        "href": "https://qiwi.com/replenish",
+        "private": true,
+        "icon": "auto"
+      },
+      {
+        "name": "raiffaisen",
+        "href": "https://online.raiffeisen.ru/#/login/main",
+        "private": true,
+        "icon": "https://online.raiffeisen.ru/import/favicons/favicon-16x16.png"
+      },
+      {
+        "name": "sberbank",
+        "href": "https://online.sberbank.ru/CSAFront/index.do",
+        "private": true,
+        "icon": "auto"
+      },
+      {
+        "name": "vsesrazu",
+        "href": "https://vsesrazu-raiffeisen.ru/#/sign-in",
+        "private": true,
+        "icon": "https://vsesrazu-raiffeisen.ru/images/favicon.ico"
+      },
+      {
+        "name": "webmoney",
+        "href": "https://login.wmtransfer.com/GateKeeper/Password/2d64c8ae-25ab-4daa-a1ef-c3532aa9fef7.aspx",
+        "private": true,
+        "icon": "https://login.wmtransfer.com/favicon.ico"
+      },
+      {
+        "name": "pkb",
+        "href": "https://my.collector.ru/signin",
+        "private": true,
+        "icon": "https://my.collector.ru/theme/styles/img/favicon.png"
+      }
+    ]
+  },
+  {
+    "name": "lk",
+    "links": [
+      {
+        "name": "emias",
+        "href": "https://emias.info/appointment/create",
+        "private": true,
+        "icon": "https://emias.info/static/favicon/favicon-16x16.png"
+      },
+      {
+        "name": "beeline",
+        "href": "https://moskva.beeline.ru/login/",
+        "private": true,
+        "icon": "auto"
+      },
+      {
+        "name": "fornex",
+        "href": "https://fornex.com/my/hosting/",
+        "private": true,
+        "icon": "auto"
+      },
+      {
+        "name": "gosuslugi",
+        "href": "https://www.gosuslugi.ru/",
+        "private": true,
+        "icon": "auto"
+      },
+      {
+        "name": "mos.ru",
+        "href": "https://www.mos.ru/services/catalog/popular/",
+        "private": true,
+        "icon": "https://www.mos.ru/static/images/favicon/favicon.ico"
+      },
+      {
+        "name": "nic.ru",
+        "href": "https://www.nic.ru/manager/my_domains.cgi?step=srv.my_domains",
+        "private": true,
+        "icon": "auto"
+      },
+      {
+        "name": "mgts",
+        "href": "https://login.mgts.ru/amserver/UI/Login",
+        "private": true,
+        "icon": "auto"
+      },
+      {
+        "name": "mosenergo",
+        "href": "https://lkkbyt.mosenergosbyt.ru/common/login.xhtml",
+        "private": true,
+        "icon": "auto"
+      },
+      {
+        "name": "zakaznoe",
+        "href": "https://zakaznoe.pochta.ru/inbox/personal",
+        "private": true,
+        "icon": "auto"
+      },
+      {
+        "name": "pochta.ru",
+        "href": "https://www.pochta.ru/tracking",
+        "private": true,
+        "icon": "https://www.pochta.ru/portal-theme/images/favicon.ico"
+      },
+      {
+        "name": "microweb",
+        "href": "https://microweb.info:2222/",
+        "private": true,
+        "icon": "https://microweb.info:2222/images/favicon.png"
+      }
+    ]
+  },
+  {
+    "name": "shopping",
+    "links": [
+      {
+        "name": "petelinka",
+        "href": "https://promo.petelinka.ru/",
+        "private": true,
+        "icon": "https://promo.petelinka.ru/images/favicon-16x16.png"
+      },
+      {
+        "name": "5ka",
+        "href": "https://my.5ka.ru/login",
+        "private": true,
+        "icon": "https://my.5ka.ru/img/favicon.ico"
+      },
+      {
+        "name": "sportmaster",
+        "href": "https://www.sportmaster.ru/user/session/login.do",
+        "private": true,
+        "icon": "auto"
+      },
+      {
+        "name": "victoria",
+        "href": "https://lk.victoria-group.ru/",
+        "private": true,
+        "icon": "https://victoria-group.ru/favicon.png"
+      },
+      {
+        "name": "zdorov.ru",
+        "href": "https://zdorov.ru/",
+        "private": true,
+        "icon": "https://zdorov.ru/favicon-32x32.png"
+      }
+    ]
+  }
+]
