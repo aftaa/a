@@ -25,6 +25,10 @@ class Favicon extends Icon
      */
     private function modifyHref(string $href): string
     {
+        if (preg_match('{vg.aftaa.ru.ico}')) {
+            return 'vg.aftaa.ru.ico';
+        }
+
         $components = parse_url($href);
         $href = implode('', [
             $components['scheme'],
