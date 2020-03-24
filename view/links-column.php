@@ -21,7 +21,7 @@ $isAdmin = $isAftaa;
 
         <div style="white-space: nowrap;" class="mb-1">
             <?php if ($icon = $link->getIcon()): ?>
-                <a href="<?= $icon ?>" target="_blank"><img alt="<?= strip_tags($link->getName()) ?>" src="<?= $icon ?>" width="16"
+                <a href="<?= $icon ?>" target="_blank"><img alt="" src="<?= $icon ?>" width="16"
                                                             height="16" style=""></a>&nbsp;
             <?php endif ?>
             <a href="<?= $link->getHref() ?>" target="_blank" class="view" data-link-id="<?= $link->id ?>">
